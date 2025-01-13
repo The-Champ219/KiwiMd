@@ -31,16 +31,12 @@ Start by forking this repository and giving it a ⭐ to support TOJI MD SUPPORT
 
 You will need a session ID to run . Click the button below to obtain your session ID:
 
-<a href='https://industrial-celestyn-dandadaneeeeeomomkk-2ee5c55e.koyeb.app/' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
+<a href='https://my-web-eight-blush.vercel.app/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-gold?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
  
- ## Session ID 2 incase the first one didn't work
-<a href='https://web-pair-qr-nvvr.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
-</a>
-<br>
+ 
 
 
 3. JUST SIGN IN WITH DISCORD .
